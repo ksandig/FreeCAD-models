@@ -1,3 +1,6 @@
+#
+# Add Boundbox dimensions to every PartDesign::Body of the active document
+#
 import FreeCAD as App
 
 def add_dimension_properties():
